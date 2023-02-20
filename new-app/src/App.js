@@ -1,13 +1,15 @@
 import './App.css';
-import Component from './Componet';
+import MyPets from './MyPets';
 
 function App() {
+ 
+
   return (
-    <div className="App">
-  
-      <h1>hello Again</h1>
-      <Component/>    
-      </div>
+    <div className='App'>
+      <h1>Talking about my pet</h1>
+      <MyPets/>
+      <MyPets/>
+    </div>
   );
 }
 

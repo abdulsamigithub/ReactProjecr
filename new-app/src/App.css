@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-color: antiquewhite;
+  border: 4px dotted red;
+  padding: 0.5rem;
+  margin: 0.5rem;
+
 }
 li {
   list-style: none;
@@ -16,9 +21,9 @@ li {
   margin: 0.5rem;
 }
 .skills{
-  display: flex;
+  display:flex
 }
 .skills > li{
   text-align: center;
-  padding: 0.2rem;
+  padding: 0.5rem;
 }

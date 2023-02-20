@@ -5,8 +5,7 @@ function App() {
  
 
   return (
-    <div className='App'>
-      <h1>Talking about my pet</h1>
+    <div >
       <MyPets/>
       <MyPets/>
     </div>

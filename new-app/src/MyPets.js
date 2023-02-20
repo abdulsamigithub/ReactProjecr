@@ -16,13 +16,7 @@ export default function MyPets(){
           skills: ['play dead', 'meow', 'purr'],
           image: 'https://res.cloudinary.com/atapas/image/upload/v1604829829/cats/timo-volz-ZlFKIG6dApg-unsplash_x3xifk.jpg',
         },
-        {
-          name: 'Molly1',
-          type: 'cat',
-          description: 'Molly is a sweet and cuddly cat stretch a lot!',
-          skills: ['play dead', 'meow', 'purr'],
-          image: 'https://res.cloudinary.com/atapas/image/upload/v1604829829/cats/timo-volz-ZlFKIG6dApg-unsplash_x3xifk.jpg',
-        },
+        
       ];
     return (
         <div className="App">
